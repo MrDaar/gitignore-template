@@ -1,0 +1,61 @@
+# OS generated files #
+.DS_Store
+.DS_Store?
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+*~
+*.sw[a-p]
+.directory
+
+# Revisioning systems #
+/.svn/*
+*/.svn/*
+/CVS/*
+*/CVS/*
+.cvsignore
+*/.cvsignore
+*.orig
+
+# IDEs, compiled languages etc. #
+atlassian-ide-plugin.xml
+.redcar
+nbproject/
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.cproject
+*.iml
+*.ipr
+*.iws
+.idea/
+*firefile*
+
+# Yii #
+assets/*
+!assets/.gitignore
+!protected/runtime/.gitignore
+protected/logs/sql/*
+!empty
+
+# Logs and databases #
+*.log
+*.log.*
+
+# Composer #
+/composer.lock
